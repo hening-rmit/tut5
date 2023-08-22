@@ -5,6 +5,7 @@ import java.util.List;
 public class Graphics {
     private List<Integer> x;
     private List<Integer> y;
+    private Shape shape;
 
     public Graphics() {
 
