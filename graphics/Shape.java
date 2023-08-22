@@ -4,7 +4,7 @@ public abstract class Shape {
     private Graphics g;
 
     public void draw(Graphics g) {
-
+        //test
     }
 
     public double getArea() {
